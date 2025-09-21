@@ -5,6 +5,11 @@ export default defineConfig({
   title: 'win7-school',
   description: 'Laibin Vocational Education Center',
 
+  vite: {
+    // 1. 保留默认的 public  2. 再追加同级目录 img
+    publicDir: ['../public', '../img']
+  },
+
   themeConfig: {
     // 顶部导航
     nav: [
