@@ -7,7 +7,7 @@ export default defineConfig({
 
   vite: {
     // 1. 保留默认的 public  2. 再追加同级目录 img
-    publicDir: ['../public', '../img']
+    publicDir: ['public', 'img']
   },
 
   themeConfig: {
