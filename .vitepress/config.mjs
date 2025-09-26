@@ -23,7 +23,8 @@ export default defineConfig({
         text: '归档',
         items: [
           { text: '解除限制', link: '/docs/xianzhi' },
-          { text: 'c++', link: '/docs/cxx' }
+          { text: 'c++', link: '/docs/cxx' },
+          { text: '游戏下载', link: '/docs/games' },
         ]
       }
     ],
