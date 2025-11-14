@@ -25,6 +25,7 @@ export default defineConfig({
           { text: '解除限制', link: '/docs/xianzhi' },
           { text: 'c++', link: '/docs/cxx' },
           { text: '游戏下载', link: '/docs/games' },
+          { text: '搜狗输入法', link: '/docs/shurufa' },
         ]
       }
     ],
