@@ -31,6 +31,7 @@ export default defineConfig({
           { text: 'pcl1', link: '/docs/pcl1' },
           { text: 'idm', link: '/docs/idm' },
           { text: '网络', link: '/docs/wangluo' },
+          { text: '浏览器', link: '/docs/llq' },
         ]
       }
     ],
