@@ -1,1 +1,5 @@
-直接被封网口被识别到没有插入网线,几乎无解.
+# 网络扫描ip
+
+https://wwbwa.lanzoue.com/iIE2C458vwta
+
+密码:ebjz

@@ -32,7 +32,8 @@ export default defineConfig({
           { text: 'idm', link: '/docs/idm' },
           { text: '网络', link: '/docs/wangluo' },
           { text: '浏览器', link: '/docs/llq' },
-          { text: '壁纸', link: '/docs/bizhi' }
+          { text: '壁纸', link: '/docs/bizhi' },
+          { text: '系统', link: '/docs/system' }
         ]
       }
     ],
